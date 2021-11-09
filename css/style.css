@@ -203,6 +203,10 @@ img{
      height: 640px;
      background-color:var(--register-card-color);
 }
+.label-input{
+     display: flex;
+     flex-direction: column;
+}
 .register-heading {
      font-family: var(--main-font);
      font-style: normal;
